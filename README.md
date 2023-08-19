@@ -1,8 +1,6 @@
 - 👋 Hi,
   I’m Ravi Palejiya - @RPalejiya
-- 👀 I’m interested in Quant Trading, AI, Data Science, Building data pipelines using Python. . 
-- 🌱 I’m currently learning MIT - AI Course, Udemy - AI Bootcamp. 
-- 💞️ I’m looking to collaborate on AI Project and Data Pipeline.  
+- 👀 I’m interested in Quant Trading, AI, Data Science, Building data pipelines using Python, Kafka, Connectors development, Generative AI applications.. . . 
 - 📫 Mail me at rpalejiya@gmail.com
 
 <!---
